@@ -1,0 +1,13 @@
+git config --global user.name Mattan Lurie
+git confir --global user.email mattan.lurie@gmail.com
+
+git config -l
+
+ssh-keygen
+ssh-add -l
+
+ssh-add ~/.ssh/id_rsa
+
+cat ~/.ssh/id_rsa.pub
+
+BEWD_2_HK
